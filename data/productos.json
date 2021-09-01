@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "equipo": "boca",
+        "marca": "ADIDAS",
+        "precio": 6000,
+        "imagen": "img/camiseta_boca.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "equipo": "river",
+        "marca": "ADIDAS",
+        "precio": 6000,
+        "imagen": "img/camiseta_river.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "equipo": "independiente",
+        "marca": "PUMA",
+        "precio": 5600,
+        "imagen": "img/camiseta_independiente.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "equipo": "san lorenzo",
+        "marca": "NIKE",
+        "precio": 5300,
+        "imagen": "img/camiseta_sanlorenzo.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "equipo": "velez",
+        "marca": "KAPPA",
+        "precio": 4900,
+        "imagen": "img/camiseta_velez.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "equipo": "racing",
+        "marca": "KAPPA",
+        "precio": 4900,
+        "imagen": "img/camiseta_racing.png",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "equipo": "argentina",
+        "marca": "ADIDAS",
+        "precio": 8700,
+        "imagen": "img/seleccion.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "equipo": "argentinos juniors",
+        "marca": "UMBRO",
+        "precio": 4200,
+        "imagen": "img/argentinos.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 9,
+        "equipo": "rosario central",
+        "marca": "UNDER",
+        "precio": 4200,
+        "imagen": "img/central.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 10,
+        "equipo": "barcelona",
+        "marca": "NIKE",
+        "precio": 8200,
+        "imagen": "img/barcelona.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 11,
+        "equipo": "estudiantes",
+        "marca": "UNDER",
+        "precio": 4200,
+        "imagen": "img/estudiantes.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 12,
+        "equipo": "francia",
+        "marca": "NIKE",
+        "precio": 8700,
+        "imagen": "img/francia.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 13,
+        "equipo": "manchester city",
+        "marca": "PUMA",
+        "precio": 7800,
+        "imagen": "img/mancity.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 14,
+        "equipo": "bayern munich",
+        "marca": "ADIDAS",
+        "precio": 8000,
+        "imagen": "img/bayern.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 15,
+        "equipo": "liverpool",
+        "marca": "NIKE",
+        "precio": 7900,
+        "imagen": "img/liverpool.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 16,
+        "equipo": "valencia",
+        "marca": "PUMA",
+        "precio": 6500,
+        "imagen": "img/valencia.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 17,
+        "equipo": "borussia dortmund",
+        "marca": "PUMA",
+        "precio": 6900,
+        "imagen": "img/borussia.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 18,
+        "equipo": "arsenal",
+        "marca": "ADIDAS",
+        "precio": 7200,
+        "imagen": "img/arsenal.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 19,
+        "equipo": "juventus",
+        "marca": "ADIDAS",
+        "precio": 7600,
+        "imagen": "img/juventus.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 20,
+        "equipo": "alemania",
+        "marca": "ADIDAS",
+        "precio": 8400,
+        "imagen": "img/alemania.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 21,
+        "equipo": "gimnasia",
+        "marca": "LE COQ SPORTIF",
+        "precio": 4200,
+        "imagen": "img/gimnasia.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 22,
+        "equipo": "union",
+        "marca": "KAPPA",
+        "precio": 4200,
+        "imagen": "img/union.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 23,
+        "equipo": "real madrid",
+        "marca": "ADIDAS",
+        "precio": 8200,
+        "imagen": "img/real_madrid.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 24,
+        "equipo": "milan",
+        "marca": "PUMA",
+        "precio": 6500,
+        "imagen": "img/milan.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 25,
+        "equipo": "manchester united",
+        "marca": "ADIDAS",
+        "precio": 7500,
+        "imagen": "img/man_und.jpg",
+        "cantidad": 1
+    }
+]
